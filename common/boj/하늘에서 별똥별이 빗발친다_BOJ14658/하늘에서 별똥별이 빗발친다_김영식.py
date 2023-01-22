@@ -7,7 +7,6 @@ sys.stdin = open('input.txt')
 # input 받기
 N, M, L, K = map(int, sys.stdin.readline().split())                 # N 별똥별이 떨어지는 구역의 가로길이 / M 세로길이 / L 트램펄린의 한 변의 길이 / K 별똥별의 수
 star = []                                                           # 별똥별의 좌표를 담을 빈 리스트 생성
-
 for k in range(K):                                                  # 별똥별의 수만큼 반복해서
     j, i = map(int, sys.stdin.readline().split())                   # 별똥별의 행을 j에 열을 i에 input 받고
     star.append((i, j))                                             # star리스트에 (행,렬)형태롤 append 한다

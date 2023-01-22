@@ -1,4 +1,4 @@
-# 녹색옷입은애가젤다지?_BOJ4485
+# 녹색 옷 입은 애가 젤다지?_BOJ4485
 
 # input.txt 열기
 import sys
