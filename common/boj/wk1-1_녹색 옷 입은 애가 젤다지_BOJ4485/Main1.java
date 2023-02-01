@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.PriorityQueue;
 
-public class Main {
+public class Main1 {
 	
 	static int N;
 	static int[][] map;

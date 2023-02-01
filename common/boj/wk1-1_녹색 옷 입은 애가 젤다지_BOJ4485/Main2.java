@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class Main {
+public class Main2 {
 
 	static int N, min;
 	static int[][] map;

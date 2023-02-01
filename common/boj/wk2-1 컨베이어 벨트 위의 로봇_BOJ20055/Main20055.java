@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main20055 {
 	static int head,tail,zeroCnt,step,N,M;
 	// head 올리는 위치
 	// tail 내리는 위치
@@ -70,17 +70,21 @@ public class Main {
 				// 내구도-1, 0됐으면 zeroCnt +1
 				if (--hp[next] == 0)//내구도 0되면 카운트 +1
 				{
+					System.out.println("hihih");
 					zeroCnt++;
 				}
-			};
+			}
+			;
 		}
 	}
 	public static void robotOn(){
 		if(hp[head]>0) {
 			if(--hp[head]==0){
+				System.out.println("wwwww");
 				zeroCnt++;
+			}else{
+				robots[head] = true;
 			}
-			robots[head] = true;
 		};
 	}
 }
