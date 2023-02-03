@@ -30,5 +30,5 @@ commone 폴더 > 플랫폼 폴더(boj, prgrms, ...) 아래 > 문제이름 폴더
 
 |제목|링크|티어|
 |------|---|---|
-||https://www.acmicpc.net/problem/1253|골드4
-||https://www.acmicpc.net/problem/1987|골드4
+|좋다|https://www.acmicpc.net/problem/1253|골드4
+|알파벳|https://www.acmicpc.net/problem/1987|골드4
