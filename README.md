@@ -32,3 +32,10 @@ commone 폴더 > 플랫폼 폴더(boj, prgrms, ...) 아래 > 문제이름 폴더
 |------|---|---|
 |좋다|https://www.acmicpc.net/problem/1253|골드4
 |알파벳|https://www.acmicpc.net/problem/1987|골드4
+
+
+### `3주차 문제` 
+
+|제목|링크|티어|
+|------|---|---|
+|빙산|https://www.acmicpc.net/problem/2573|골드4
